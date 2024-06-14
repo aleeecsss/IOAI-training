@@ -1,1 +1,1 @@
-Classical regression problem from kaggle solved using ANNs (+ Dropout and L2 regularization)
+Classical regression problem from kaggle solved using a shallow ANN (with Dropout and L2 regularization)
