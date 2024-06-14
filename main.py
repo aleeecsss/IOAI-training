@@ -8,7 +8,7 @@ from torch.utils.data import Dataset, DataLoader
 
 from torch import nn
 
-PATH = 'C:/Users/aaaaa/Desktop/houseprices'
+PATH = 'C:/Users/aaaaa/Desktop/kaggle-house-prices'
 
 device = (
     "cuda" if torch.cuda.is_available()
